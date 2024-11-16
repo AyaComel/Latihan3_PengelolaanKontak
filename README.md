@@ -265,7 +265,7 @@ private void imporToCSV() {
 # action listener pada button impor
 ~~~
 private void buttonImporActionPerformed(java.awt.event.ActionEvent evt) {                                            
-    buttonImpor.addActionListener(e -> imporToCSV());
+    buttonImpor.addActionListener(e -> eksporToCSV());
     }  
 ~~~
 # 6. Tampilan Pada Saat Aplikasi Di Jalankan
