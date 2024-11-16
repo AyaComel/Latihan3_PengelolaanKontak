@@ -268,7 +268,7 @@ private void buttonImporActionPerformed(java.awt.event.ActionEvent evt) {
     buttonImpor.addActionListener(e -> eksporToCSV());
     }  
 ~~~
-# 6. Tampilan Pada Saat Aplikasi Di Jalankan
+# 6. Tampilan Pada Saat Aplikasi Di Run
 ![](https://github.com/AyaComel/Latihan3_PengelolaanKontak/blob/main/Latihan3.png)
 
 ## Indikator Penilaian:
